@@ -1,5 +1,5 @@
 import { Container, Navbar, Nav, Button, Badge} from 'react-bootstrap';
-import SearchBar from '../../Molecules/SearchBar';
+import SearchBar from '../Molecules/SearchBar';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 const Header = () => (

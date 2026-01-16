@@ -1,7 +1,9 @@
+import HeroSection from "../components/Organisms/HeroSection";
+
 const Home = () => {
   return (
     <>
-        <h1>This is Home Page</h1>
+        <HeroSection/>
     </>
   );
 };
